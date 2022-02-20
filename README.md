@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FelipedeRoza
+- 👀 I'm interested in learning front end at the moment. I have knowledge in HTML and CSS and starting studies in java script. 
+- 🌱 I’m currently learning Java Script.
+- 💞️ I’m looking to collaborate with some codes that I make.
+- 📫 How to reach me felipegroza1@gmail.com
